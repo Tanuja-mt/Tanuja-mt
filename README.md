@@ -11,7 +11,7 @@
 <hr width= "70%">
  </div>
  
-<div align="center">
+<div>
 🌱 **Learning Goals**: 
   **MERN Full Stack Development**: I'm on a journey to become a full stack developer using MongoDB, Express.js, React.js, and Node.js.
    **React.js**: Currently diving deep into React.js to build dynamic and responsive user interfaces.
