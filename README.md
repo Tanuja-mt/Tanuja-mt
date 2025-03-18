@@ -36,7 +36,7 @@ You can reach me at [Tiwaritanuja97@gmail.com]
 I'm a frontend developer at SquareYard with almost 3 years of experience. My expertise includes:
 
  **Languages**: JavaScript, HTML, CSS
-**Frameworks/Libraries**: React, Angular
+**Frameworks/Libraries**: React, Angular , React Native
  **Tools**: Git 
  **Others**: Responsive design, UX/UI principles
 </div>
