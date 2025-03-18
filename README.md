@@ -20,13 +20,15 @@
   👯 **Collaboration**: 
      I'm always looking to collaborate on innovative projects. Feel free to reach out if you have an exciting idea or just want to code together!
  </li>
-</ul>
-
-  💬 **Ask Me About**: 
-   Front-End Development
-
+ <li>  💬 **Ask Me About**: 
+   Front-End Development</li>
+   <li>
  📫 **Contact**: 
 You can reach me at [Tiwaritanuja97@gmail.com]
+
+</li>
+</ul>
+
 
 
 ### About Me
