@@ -7,7 +7,7 @@
 
 <!-- Visitor count -->
  <div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tanuja-mt&label=Profile%20views&color=0e75b6&style=flat" alt="Tanuja-mt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tanuja-mt&label=Profile%20views&color=#7F00FF&style=flat" alt="Tanuja-mt" /> </p>
 <hr width= "70%">
  </div>
  
